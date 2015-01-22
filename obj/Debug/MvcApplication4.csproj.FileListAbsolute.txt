@@ -1,0 +1,11 @@
+c:\users\angelabs6\documents\visual studio 2010\Projects\MvcApplication4\MvcApplication4\bin\MvcApplication4.dll
+c:\users\angelabs6\documents\visual studio 2010\Projects\MvcApplication4\MvcApplication4\bin\MvcApplication4.pdb
+c:\users\angelabs6\documents\visual studio 2010\Projects\MvcApplication4\MvcApplication4\bin\EntityFramework.dll
+c:\users\angelabs6\documents\visual studio 2010\Projects\MvcApplication4\MvcApplication4\bin\MongoDB.Bson.dll
+c:\users\angelabs6\documents\visual studio 2010\Projects\MvcApplication4\MvcApplication4\bin\MongoDB.Driver.dll
+c:\users\angelabs6\documents\visual studio 2010\Projects\MvcApplication4\MvcApplication4\bin\EntityFramework.xml
+c:\users\angelabs6\documents\visual studio 2010\Projects\MvcApplication4\MvcApplication4\bin\MongoDB.Bson.xml
+c:\users\angelabs6\documents\visual studio 2010\Projects\MvcApplication4\MvcApplication4\bin\MongoDB.Driver.xml
+c:\users\angelabs6\documents\visual studio 2010\Projects\MvcApplication4\MvcApplication4\obj\Debug\MvcApplication4.csprojResolveAssemblyReference.cache
+c:\users\angelabs6\documents\visual studio 2010\Projects\MvcApplication4\MvcApplication4\obj\Debug\MvcApplication4.dll
+c:\users\angelabs6\documents\visual studio 2010\Projects\MvcApplication4\MvcApplication4\obj\Debug\MvcApplication4.pdb
